@@ -12,3 +12,6 @@ Git:
 - Git cheat sheet https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 - I use https://github.com/kamranahmedse/git-standup to recall what i did om the last working day
 
+Xcode: 
+  - Extenstions:
+      - Xcode Mock generator extenstion https://github.com/seanhenry/SwiftMockGeneratorForXcode
