@@ -9,7 +9,8 @@
 - I use the [Meslo Powerline Font](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) as you need a font that supports the directory characters for `powerline`
 
 Git: 
-- Git cheat sheet https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+- git tipa and tricks https://github.com/git-tips/tips#everyday-git-in-twenty-commands-or-so
+- git cheat sheet https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 - I use https://github.com/kamranahmedse/git-standup to recall what i did om the last working day
 
 Xcode: 
