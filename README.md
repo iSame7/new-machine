@@ -16,3 +16,5 @@ Git:
 Xcode: 
   - Extenstions:
       - Xcode Mock generator extenstion https://github.com/seanhenry/SwiftMockGeneratorForXcode
+  - Unit test: 
+     - Shortcuts https://www.mokacoding.com/blog/xcode-testing-shortcuts/
