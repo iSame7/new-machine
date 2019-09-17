@@ -1,7 +1,7 @@
 # new-machine
 
 
-
+Terminal:
 - I use [iTerm2](https://www.iterm2.com/) instead of the Stock terminal Mac app
 - I use [oh-my-zshell](https://github.com/robbyrussell/oh-my-zsh)
 - I use [Solarized Dark](http://ethanschoonover.com/solarized) for the terminal colors
@@ -20,3 +20,6 @@ Xcode:
      - Shortcuts https://www.mokacoding.com/blog/xcode-testing-shortcuts/
   - Xcode tips 
     - Tip: If you use the rename refactoring in Xcode a lot, you can save some time by skipping the code folding animation:         defaults write http://com.apple.dt.Xcode CodeFoldingAnimationSpeed -int 0
+
+  Misc: 
+    - generate .Gif from screen recording https://www.cockos.com/licecap/
