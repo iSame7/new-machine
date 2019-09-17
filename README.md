@@ -22,5 +22,4 @@ Xcode:
     - Tip: If you use the rename refactoring in Xcode a lot, you can save some time by skipping the code folding animation:         defaults write http://com.apple.dt.Xcode CodeFoldingAnimationSpeed -int 0
 
   Misc: 
-  
     - generate .Gif from screen recording https://www.cockos.com/licecap/
