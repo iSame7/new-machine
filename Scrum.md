@@ -12,30 +12,30 @@ An example of these distinctions could be:
 
 ## Epic: User Authentication.
 ## User Stories:
-User Login screen.
-Forgot Password workflow.
-Lock account after too many failed attempts.
-Google login support.
-Facebook login support.
+- User Login screen.
+- Forgot Password workflow.
+- Lock account after too many failed attempts.
+- Google login support.
+- Facebook login support.
 
-## Sub-Tasks:
-User Login screen:
-Design login page.
-Cut SVG icons and images.
-Implement login page HTML/CSS/JS.
-Create SQL scripts to create tables.
-Create SQL scripts for stored procedures.
-Create web service REST API for user resource.
-Hook up login page to web service REST API.
-Forgot Password workflow:
+Sub-Tasks:
+- User Login screen:
+- Design login page.
+- Cut SVG icons and images.
+- Implement login page HTML/CSS/JS.
+- Create SQL scripts to create tables.
+- Create SQL scripts for stored procedures.
+- Create web service REST API for user resource.
+- Hook up login page to web service REST API.
+- Forgot Password workflow:
 ...
 
-## (Engineering) Tasks:
-Setup GitHub project repo.
-Setup GCP (or AWS) account, containers, and services.
-(There might be Sub-Tasks for these too)
+(Engineering) Tasks:
+- Setup GitHub project repo.
+- Setup GCP (or AWS) account, containers, and services.
+- (There might be Sub-Tasks for these too)
 ...
 
-Setup Jenkins CI pipeline.
-Design overall (high-level) system architecture.
-Research and decide on unit test and mocking framework.
+- Setup Jenkins CI pipeline.
+- Design overall (high-level) system architecture.
+- Research and decide on unit test and mocking framework.
