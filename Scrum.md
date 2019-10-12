@@ -1,17 +1,18 @@
-# The way I've been approaching the distinctions of issue types is this - I'd LOVE some feedback or alternative suggestions to consider:
+## The way I've been approaching the distinctions of issue types is this - I'd LOVE some feedback or alternative suggestions to consider:
 
-## Epic
+### Epic
 - A general use case that is a collection of features (user stories). (Use Fibonacci numbers to estimate.)
-## User Story
+### User Story
 - Represents a user feature. (Use Fibonacci numbers to estimate.)
-## Sub-Task
+### Sub-Task
 - Represents development tasks to accomplish the user story. (No story point estimates.) Generally no more than 1-day tasks. You can either count the number of sub-tasks or time estimate in days in your retrospective to evaluate if your story point estimate for the User Story was accurate and adjust accordingly - assuming you have some velocity history to compare to.
-## (Engineering) Task
+### (Engineering) Task
 - We used to call these "Dev Stories" (in a pre-Jira project) - represents a set of engineering work that is not directly related to a user story. The team should try to anticipate "Dev Stories" and add them to the backlog sooner than later with estimates (Use Fibonacci numbers to estimate) so the PO can plan milestones.
 An example of these distinctions could be:
 
-## Epic: User Authentication.
-## User Stories:
+Epic: User Authentication.
+
+User Stories:
 - User Login screen.
 - Forgot Password workflow.
 - Lock account after too many failed attempts.
