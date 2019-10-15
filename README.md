@@ -23,6 +23,7 @@ Xcode:
   - Xcode tips 
     - Tip: If you use the rename refactoring in Xcode a lot, you can save some time by skipping the code folding animation:         defaults write http://com.apple.dt.Xcode CodeFoldingAnimationSpeed -int 0
     - Xcode colors: https://github.com/robbiehanson/XcodeColors/blob/master/README.markdown
+    - speed development: https://cocoacasts.com/five-xcode-tips-to-speed-up-your-development
 
 SCRUM/JIRA:
 [epic vs story vs task](/Scrum.md)
