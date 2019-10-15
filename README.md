@@ -17,7 +17,7 @@ Git:
 Xcode: 
   - Extenstions:
       - Xcode Mock generator extenstion https://github.com/seanhenry/SwiftMockGeneratorForXcode
-      - Sorr files by default https://stackoverflow.com/questions/31532460/how-to-automatically-sort-by-name-in-xcode-project
+      - Sort files by default https://stackoverflow.com/questions/31532460/how-to-automatically-sort-by-name-in-xcode-project
   - Unit test: 
      - Shortcuts https://www.mokacoding.com/blog/xcode-testing-shortcuts/
   - Xcode tips 
