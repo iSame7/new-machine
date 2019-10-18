@@ -13,6 +13,7 @@ Git:
 - git cheat sheet https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 - I use https://github.com/kamranahmedse/git-standup to recall what i did om the last working day
 - Checkout current remote branch and reset local changes "git checkout -- ."
+- PR from terminal https://hub.github.com/
 
 Xcode: 
   - Extenstions:
