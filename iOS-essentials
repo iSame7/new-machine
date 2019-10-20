@@ -1,0 +1,80 @@
+## iOS essentials
+
+### IDE
+- Xcode 
+- AppCode 
+
+### Language:
+- Swift 
+- Objective C
+
+### SWift 
+Core topics:
+- Colsures
+- Protocols 
+- Generics 
+- Class and struct 
+- Extenstions 
+- Property observers
+
+### Design 
+- Storyboard
+- Xib 
+- Programatically 
+
+`New`: Swift UI 
+
+We can make UI responsive using:
+- Autolayout 
+
+### Application lifecyle 
+- Not running 
+- Foreground:
+  - Inactive 
+  - Active 
+- Background
+- Suspended 
+
+### Architecture
+- MVC
+- MVP
+- MVVM - MVVMC 
+- VIPER
+
+### Networking
+- Alamofire 
+
+### Data parsing
+- Codable 
+- NSSerlialization 
+- Argo
+- SwiftyJSON
+- SWXMLHAsh
+- SwiftyXML
+
+### Database
+- SQLite databse with C API or Swift swlite wrapper
+- CoreData
+
+### Data flow between view controller to view controller 
+- Using instance property 
+- Using segues 
+- Using instance properties and functions 
+- Using Delegation pattern 
+- Using closure or completion handler 
+- Using notification center and observer pattern 
+
+### Source control 
+Git 
+CVS 
+SVN
+
+### Dependency manager 
+- CocoaPods 
+- Carthage 
+- Swift package manager 
+ 
+
+
+
+
