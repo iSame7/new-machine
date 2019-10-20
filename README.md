@@ -9,7 +9,9 @@ Terminal:
 - I use the [Meslo Powerline Font](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) as you need a font that supports the directory characters for `powerline`
 
 Git: 
+- think like a git http://think-like-a-git.net/
 - git tips and tricks https://github.com/git-tips/tips#everyday-git-in-twenty-commands-or-so
+- git - the simple guide https://rogerdudler.github.io/git-guide/
 - git cheat sheet https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 - I use https://github.com/kamranahmedse/git-standup to recall what i did om the last working day
 - Checkout current remote branch and reset local changes "git checkout -- ."
