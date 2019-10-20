@@ -14,6 +14,7 @@ Git:
 - I use https://github.com/kamranahmedse/git-standup to recall what i did om the last working day
 - Checkout current remote branch and reset local changes "git checkout -- ."
 - PR from terminal https://hub.github.com/
+- git checkout Develop -- theFileYouWantToRevert
 
 Xcode: 
   - Extenstions:
