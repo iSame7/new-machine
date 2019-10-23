@@ -7,6 +7,10 @@ Terminal:
 - I use [Solarized Dark](http://ethanschoonover.com/solarized) for the terminal colors
 - I use [powerline-shell](https://github.com/milkbikis/powerline-shell) to get those cool path bars. I usually hide the host name and the user, before running `python ./setup.py install`, edit the config file and comment out `username`, `hostname`
 - I use the [Meslo Powerline Font](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) as you need a font that supports the directory characters for `powerline`
+- Commands:
+  - find and delete file: >find . -name AnalyticsElementId.swift.orig && rm   ./Dott/Common/Analytics/AnalyticsElementId.swift.orig
+  - or one command : > sudo find / -iname ".file-to-delete"  -exec rm {} \;
+
 
 Git: 
 - think like a git http://think-like-a-git.net/
