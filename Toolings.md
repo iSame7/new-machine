@@ -6,6 +6,9 @@ List of tools i used during my development
 * GitLab
 * Jenkins 
 
+**CI/CD**
+* Fastlane 
+
 **Pull requests review automation** 
 * Danger 
   - https://danger.systems/swift/tutorials/ios_app.html
@@ -27,4 +30,7 @@ List of tools i used during my development
 * Leanplum 
 * Mixpanel
 * Firebase 
+
+**Localization**
+* Lokalize https://lokalise.com/projects
 
