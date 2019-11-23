@@ -1,5 +1,45 @@
 This is the list of books in my library that I read or partially read. Not sorted in any order. **The ones in bold mean I highly recommend.**
 
+## Technical
+
+### Interview Prep
+
+- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+
+If there is extra time:
+- [ ] [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+    - all code is in C++, very good if you're looking to use C++ in your interview
+    - a good book on problem solving in general.
+
+### Computer Architecture
+
+If short on time:
+
+- [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
+    - The book was published in 2004, and is somewhat outdated, but it's a terrific resource for understanding a computer in brief.
+    - The author invented HLA, so take mentions and examples in HLA with a grain of salt. Not widely used, but decent examples of what assembly looks like.
+    - These chapters are worth the read to give you a nice foundation:
+        - Chapter 2 - Numeric Representation
+        - Chapter 3 - Binary Arithmetic and Bit Operations
+        - Chapter 4 - Floating-Point Representation
+        - Chapter 5 - Character Representation
+        - Chapter 6 - Memory Organization and Access
+        - Chapter 7 - Composite Data Types and Memory Objects
+        - Chapter 9 - CPU Architecture
+        - Chapter 10 - Instruction Set Architecture
+        - Chapter 11 - Memory Architecture and Organization
+
+If there is more time (I want this book):
+
+- [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
+    - For a richer, more up-to-date (2011), but longer treatment
+
+### Code Refactor
+- [ ] [Working Effectively with Legacy Code (Robert C. Martin)](https://www.amazon.de/dp/0131177052)
+
+### TDD 
+- [ ] [Growing object oriented software guided tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+
 * Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations
 * Startup by Jerry Kaplan
 * Maybe you should talk to someone
