@@ -40,6 +40,10 @@ If there is more time (I want this book):
 ### TDD 
 - [ ] [Growing object oriented software guided tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 
+### Programming languages
+#### Swift 
+- [ ] [Swift the language](https://docs.swift.org/swift-book/)
+
 ## None technical
 
 * Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations
