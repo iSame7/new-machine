@@ -121,3 +121,4 @@ If there is more time (I want this book):
 * Engagement from Scratch!: How Super-Community Builders Create a Loyal Audience and How You Can Do the Same!
 * Content Rules: How to Create Killer Blogs, Podcasts, Videos, Ebooks, Webinars (and More) That Engage Customers and Ignite Your Business
 * Social Media ROI: Managing and Measuring Social Media Efforts in Your Organization
+* [Who the A method for hiring](https://www.amazon.de/dp/0345504194/)
