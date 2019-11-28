@@ -19,6 +19,7 @@ List of tools i used during my development
   
   - https://gitlab.com/gperdomor/Moya/blob/master/Dangerfile.swift
   - https://github.com/danger/awesome-danger
+  - https://medium.com/developermind/using-swiftlint-and-danger-for-swift-best-practices-48432e4e268a
 
 **Pull requests reminder**
 * Pull reminder https://pullreminders.com/
