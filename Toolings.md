@@ -16,6 +16,9 @@ List of tools i used during my development
   - https://danger.systems/swift/
   - https://github.com/danger/swift
   - https://medium.com/ynap-tech/automated-ios-code-reviews-with-swiftlint-and-danger-at-ynap-d38e87632d77
+  
+  - https://gitlab.com/gperdomor/Moya/blob/master/Dangerfile.swift
+  - https://github.com/danger/awesome-danger
 
 **Pull requests reminder**
 * Pull reminder https://pullreminders.com/
