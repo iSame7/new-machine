@@ -43,6 +43,8 @@ If there is more time (I want this book):
 ### Programming languages
 #### Swift 
 - [ ] [Swift the language](https://docs.swift.org/swift-book/)
+- [ ] [Modern AutoLayout by Keith Harrison] 
+- [ ] [Swift unit testing by Jon Reid](https://pragprog.com/book/jrlegios/ios-unit-testing-by-example)
 
 ## None technical
 
