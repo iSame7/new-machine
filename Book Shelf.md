@@ -45,6 +45,7 @@ If there is more time (I want this book):
 - [ ] [Swift the language](https://docs.swift.org/swift-book/)
 - [ ] [Modern AutoLayout by Keith Harrison] 
 - [ ] [Swift unit testing by Jon Reid](https://pragprog.com/book/jrlegios/ios-unit-testing-by-example)
+- [ ] [App Architecture](https://www.objc.io/books/app-architecture/)
 
 ## None technical
 
