@@ -44,3 +44,4 @@ SCRUM/JIRA:
   
     - generate .Gif from screen recording https://www.cockos.com/licecap/
     - validate regex expression https://regex101.com/ 
+    - https://probot.github.io/apps/lock/
