@@ -45,3 +45,7 @@ SCRUM/JIRA:
     - generate .Gif from screen recording https://www.cockos.com/licecap/
     - validate regex expression https://regex101.com/ 
     - https://probot.github.io/apps/lock/
+    - Custom: Icons8 https://icons8.com/ouch and unDraw https://undraw.co 
+    - Stock: Pixabay, Unsplash + post-processing with Figma
+    - draw.io for diagrams
+    - https://undraw.co/ for colorful illustration 
