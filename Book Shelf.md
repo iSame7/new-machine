@@ -126,3 +126,4 @@ If there is more time (I want this book):
 * Social Media ROI: Managing and Measuring Social Media Efforts in Your Organization
 * [Who the A method for hiring](https://www.amazon.de/dp/0345504194/)
 * For Whom the bell Tolls 
+* Bring Up Genius!
