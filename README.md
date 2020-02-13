@@ -35,6 +35,7 @@ Xcode:
     - Xcode colors: https://github.com/robbiehanson/XcodeColors/blob/master/README.markdown
     - speed development: https://cocoacasts.com/five-xcode-tips-to-speed-up-your-development
     - Shortcuts [Xcode shortcuts](/Shortcuts.md)
+    - Line sorter https://github.com/V8tr/LinesSorter-Xcode-Extension
 
 SCRUM/JIRA:
 [epic vs story vs task](/Scrum.md)
