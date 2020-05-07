@@ -10,6 +10,8 @@ Terminal:
 - Commands:
   - find and delete file: > `find . -name AnalyticsElementId.swift.orig && rm   ./Dott/Common/Analytics/AnalyticsElementId.swift.orig`
   - or one command : > `sudo find / -iname ".file-to-delete"  -exec rm {} \;`
+  - `search in terminal`: 
+    When using Bash, type `Control-R` and then start typing. Typing `Control-R` repeatedly after inputting some text will move you back in matching command lines.
 
 
 Git: 
