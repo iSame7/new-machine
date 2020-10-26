@@ -24,6 +24,8 @@ Git:
 - Clean/discard/delete untracked files `git clean -d -x -f`
 - PR from terminal https://hub.github.com/
 - git checkout Develop -- theFileYouWantToRevert
+- Revert to a commit:  >> git revert --no-commit 0766c053..HEAD
+                       >> git commit
 - git stash apply
 - https://hub.github.com/
 
