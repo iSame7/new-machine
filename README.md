@@ -27,6 +27,7 @@ Git:
 - Revert to a commit:  >> git revert --no-commit 0766c053..HEAD
                        >> git commit
 - git stash apply
+- List all conflicted files in git -> git diff --name-only --diff-filter=U 
 - https://hub.github.com/
 
 Xcode: 
