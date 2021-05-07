@@ -29,6 +29,7 @@ Git:
 - git stash apply
 - List all conflicted files in git -> git diff --name-only --diff-filter=U 
 - https://hub.github.com/
+- https://gitmoji.dev/ An emoji guide for your commit messages
 
 Xcode: 
   - Extenstions:
